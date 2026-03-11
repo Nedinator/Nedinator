@@ -2,14 +2,13 @@
 
 - 👀 In the past (and currently sometimes 😄), I was interested in fun projects primarily created in Javascript.
 - 💼 Worked in data analysis with R and MSSQL for a brief time 
-- 🌱 I'm currently digging into Golang as well as anything web development
+- 🌱 I'm currently digging into some more fundamentals using Typescript and Golang.
 
 ## 🧑‍🏭What I'm working on:
- 
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+  ![Typescript](https://img.shields.io/badge/typescript-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
  
 ## 🧱The languages & technologies I'm familiar with: 
  
@@ -30,14 +29,10 @@
 
   ### [djs-commands](https://github.com/Nedinator/djs-commands)
   
-   * A interaction register and handler for discord.js
+   * A command handler for discord.js in Typescript.
 
-  ### [rbbt](https://github.com/Nedinator/rbbt)
+  ### [MMOCord](https://github.com/Nedinator/MMOCord)
 
-   * Still relatively newer and unfinished, a url shortener written with Golang.
+   * A Typescript Discord bot inspired by MMOs and Idle games.
 
  
-
-## 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nedinator&theme=onedark)](https://github.com/Nedinator/github-profile-trophy)
