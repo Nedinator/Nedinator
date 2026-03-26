@@ -31,8 +31,4 @@
   
    * A command handler for discord.js in Typescript.
 
-  ### [MMOCord](https://github.com/Nedinator/MMOCord)
-
-   * A Typescript Discord bot inspired by MMOs and Idle games.
-
  
